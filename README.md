@@ -1,5 +1,3 @@
 ### Hi there 👋
-<img src="https://img.shields.io/badge/JAVA-0B2F3A?style=flat-square&logo=JAVA&logoColor=white"/></a>
-<!--
-**jyj9704/jyj9704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<img src="https://img.shields.io/badge/JAVA-058B8C?style=flat-square&logo=JAVA&logoColor=white"/></a>
